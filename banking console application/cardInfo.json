@@ -1,0 +1,2474 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "cardDetails": {
+      "cardNumber": "1234-5678-9012-3456",
+      "expirationDate": "12/25",
+      "CVC": "123"
+    },
+    "pinCode": "1234",
+    "transactionHistory": [
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "ChangePin",
+        "amount": 0.0,
+        "amountGEL": 150.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "DepositCheck",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-02T15:45:00Z",
+        "transactionType": "GetAmount",
+        "amount": 500.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "FillAmount",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "Balance Inquiry",
+        "amount": 0.0,
+        "amountGEL": 0.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      }
+    ]
+  },
+  {
+    "firstName": "jackie",
+    "lastName": "Chan",
+    "cardDetails": {
+      "cardNumber": "1111-1111-2222-2222",
+      "expirationDate": "11/25",
+      "CVC": "456"
+    },
+    "pinCode": "1234",
+    "transactionHistory": [
+      {
+        "transactionDate": "2024-02-16T18:11:50.7322101Z",
+        "transactionType": "Get Amount",
+        "amount": 1.0,
+        "amountGEL": 100.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T18:11:37.822033Z",
+        "transactionType": "Deposit Check",
+        "amount": 7.0,
+        "amountGEL": 101.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:50:19.3868026Z",
+        "transactionType": "Fill Amount",
+        "amount": 7.0,
+        "amountGEL": 101.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:49:56.5556436Z",
+        "transactionType": "miiReT tranzaqciebis istoria",
+        "amount": 1600.0,
+        "amountGEL": 94.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:49:50.9903055Z",
+        "transactionType": "Deposit Check",
+        "amount": 1600.0,
+        "amountGEL": 94.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:39:18.9325194Z",
+        "transactionType": "Deposit Check",
+        "amount": 1600.0,
+        "amountGEL": 94.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:38:50.9167758Z",
+        "transactionType": "Deposit Check",
+        "amount": 1600.0,
+        "amountGEL": 94.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:38:41.3490388Z",
+        "transactionType": "Get Amount",
+        "amount": 1600.0,
+        "amountGEL": 94.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:38:09.6289143Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 1694.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:29:10.9491762Z",
+        "transactionType": "Fill Amount",
+        "amount": 100.0,
+        "amountGEL": 1694.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T17:28:54.2989693Z",
+        "transactionType": "Deposit Check",
+        "amount": 6.0,
+        "amountGEL": 1594.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T15:16:54.7858451Z",
+        "transactionType": "Get Amount",
+        "amount": 6.0,
+        "amountGEL": 1594.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T15:15:59.0893014Z",
+        "transactionType": "Deposit Check",
+        "amount": 1000.0,
+        "amountGEL": 1600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T15:15:41.9614465Z",
+        "transactionType": "Fill Amount",
+        "amount": 1000.0,
+        "amountGEL": 1600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T15:15:30.3666499Z",
+        "transactionType": "Change Pin",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T15:14:52.2805394Z",
+        "transactionType": "Deposit Check",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:27:18.0224581Z",
+        "transactionType": "Deposit Check",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:27:04.6102896Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.5026018Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 10.0,
+        "amountEUR": 20.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4904803Z",
+        "transactionType": "Get Transactions History",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4773058Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4667098Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4545317Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4418413Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4287091Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.4155254Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 1500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.3976844Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.3836374Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.3642215Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.3341303Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.3187271Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.3020731Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.2980805Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.2534472Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.2398829Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.225323Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.2112978Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.1982712Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.1844056Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.1704377Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.1460713Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.1177907Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.1081474Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0963999Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0850062Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0753511Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0644429Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0541292Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0427247Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0310025Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0199444Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:48.0097675Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9982365Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9865803Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9733911Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9616822Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9468287Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9224888Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.9076226Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.8938681Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.8806174Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.8678325Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.8535045Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.8331748Z",
+        "transactionType": "Get Transactions History",
+        "amount": 20.0,
+        "amountGEL": 10000.0,
+        "amountUSD": 40.0,
+        "amountEUR": 60.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.8110383Z",
+        "transactionType": "Get Transactions History",
+        "amount": 20.0,
+        "amountGEL": 10000.0,
+        "amountUSD": 40.0,
+        "amountEUR": 60.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.7984045Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.7844216Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.7651552Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.7604445Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.7032709Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.6916194Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.6787151Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.6650249Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.6451978Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.6290006Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.6141531Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.5975307Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.5758377Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.5570185Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.5450926Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.5229878Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.5073577Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4973276Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4867082Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4749479Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4633096Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4526633Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4413719Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.425259Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4140939Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.4035224Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.3923728Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.3811732Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.369152Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.359366Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.3464016Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.3334264Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.3126333Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2990469Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2851922Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2693369Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2576212Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2464877Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 1500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2351449Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.2199423Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.1936592Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.1816819Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.1700153Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.1571569Z",
+        "transactionType": "Get Transactions History",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.1462084Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:47.144126Z",
+        "transactionType": "Get Transactions History",
+        "amount": 60.0,
+        "amountGEL": 10.0,
+        "amountUSD": 20.0,
+        "amountEUR": 30.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.7050924Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 0.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6923114Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6786542Z",
+        "transactionType": "Get Transactions History",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6654993Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6529906Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6402801Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6276098Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.616893Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.6066144Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 1500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.5959542Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.5840748Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.5670526Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.550171Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.5374304Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.5221635Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.5034021Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.4914486Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.4803777Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.4697433Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.45838Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.4483993Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.4367225Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.4339094Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.3871544Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.3759845Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.365048Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.3477109Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.3352243Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.3201341Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.303137Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2927693Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2830115Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2711615Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2608469Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2501765Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2386237Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2285168Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2176468Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.2067357Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1964629Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1858221Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1720952Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.161784Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1516911Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1398523Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1257942Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.1061246Z",
+        "transactionType": "Get Transactions History",
+        "amount": 20.0,
+        "amountGEL": 10000.0,
+        "amountUSD": 40.0,
+        "amountEUR": 60.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0872492Z",
+        "transactionType": "Get Transactions History",
+        "amount": 20.0,
+        "amountGEL": 10000.0,
+        "amountUSD": 40.0,
+        "amountEUR": 60.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0755133Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0637258Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0515753Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0374525Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0200248Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:38.0102227Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9998412Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9878904Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9762389Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9660487Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9558241Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9449858Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9304532Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.9121242Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.8873069Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.8722678Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:37.8626778Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9962547Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9851955Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.973703Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9620642Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9499517Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9305537Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9151867Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.9006375Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.8819765Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.8655939Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.8411861Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.81631Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.8004487Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.7824643Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.7686574Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.7548304Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.7365793Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.7180623Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.6974999Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.6528486Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.6102791Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 1500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.5842847Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.5552469Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.5375429Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.5226983Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.5070832Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.4904716Z",
+        "transactionType": "Get Transactions History",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.4707536Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:25:36.3948196Z",
+        "transactionType": "Get Transactions History",
+        "amount": 60.0,
+        "amountGEL": 10.0,
+        "amountUSD": 20.0,
+        "amountEUR": 30.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.2506578Z",
+        "transactionType": "Get Transactions History",
+        "amount": 60.0,
+        "amountGEL": 10.0,
+        "amountUSD": 20.0,
+        "amountEUR": 30.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.2372553Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.2263449Z",
+        "transactionType": "Get Transactions History",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.2165838Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.2071221Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1977768Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1877838Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.177832Z",
+        "transactionType": "Get Transactions History",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1681109Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 1500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1577675Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1465631Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1348588Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1222139Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.1094879Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.0950673Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.078525Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.0691221Z",
+        "transactionType": "Get Transactions History",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.057661Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.0475503Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.0382093Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.0276119Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.0152389Z",
+        "transactionType": "Get Transactions History",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:26.003769Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9927614Z",
+        "transactionType": "Get Transactions History",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9815916Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9693138Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9582258Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": -149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9460879Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9309565Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9163315Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.9009655Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.8770216Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.8610165Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.8490265Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.8355851Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.8194107Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.8084241Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7950742Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7840214Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7747479Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.764547Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7535679Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7416028Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7311554Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7220312Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.7115594Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.693841Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:24:25.6520872Z",
+        "transactionType": "Get Transactions History",
+        "amount": 20.0,
+        "amountGEL": 10000.0,
+        "amountUSD": 40.0,
+        "amountEUR": 60.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:22:04.853271Z",
+        "transactionType": "Get Transactions History",
+        "amount": 20.0,
+        "amountGEL": 10000.0,
+        "amountUSD": 40.0,
+        "amountEUR": 60.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:08:04.5838042Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:08:00.8793459Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:06:56.8408955Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:06:54.7234687Z",
+        "transactionType": "Deposit Check",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:04:40.31587Z",
+        "transactionType": "Get Transactions History",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-16T00:04:29.3566156Z",
+        "transactionType": "Deposit Check",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T23:58:37.7651591Z",
+        "transactionType": "Get Transactions History",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T23:38:04.0454009Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T19:30:00.2850162Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T19:28:55.9163771Z",
+        "transactionType": "Get Transactions History",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T19:28:37.5399606Z",
+        "transactionType": "Deposit Check",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T19:28:13.1238656Z",
+        "transactionType": "Get Amount",
+        "amount": 5.0,
+        "amountGEL": 44.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T19:27:45.6307306Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:56:11.0600169Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:56:09.0436614Z",
+        "transactionType": "Get Amount",
+        "amount": 100.0,
+        "amountGEL": 49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:55:54.0515063Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:54:22.0495355Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:54:17.7792967Z",
+        "transactionType": "Get Amount",
+        "amount": 100.0,
+        "amountGEL": 149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:53:33.7931239Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:48:17.9745678Z",
+        "transactionType": "Get Amount",
+        "amount": 100.0,
+        "amountGEL": 249.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:46:53.293355Z",
+        "transactionType": "Get Amount",
+        "amount": 100.0,
+        "amountGEL": -149.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:45:41.0616607Z",
+        "transactionType": "Deposit Check",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:45:37.4498388Z",
+        "transactionType": "Get Amount",
+        "amount": 100.0,
+        "amountGEL": -49.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:45:32.3116569Z",
+        "transactionType": "Deposit Check",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:38:45.2974349Z",
+        "transactionType": "Get Amount",
+        "amount": 1000.0,
+        "amountGEL": 51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:38:37.3787157Z",
+        "transactionType": "Deposit Check",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:37:13.5376251Z",
+        "transactionType": "Deposit Check",
+        "amount": 2000.0,
+        "amountGEL": 949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:37:09.3152719Z",
+        "transactionType": "Get Amount",
+        "amount": 2000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:36:59.186525Z",
+        "transactionType": "Deposit Check",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:36:33.0777258Z",
+        "transactionType": "Fill Amount",
+        "amount": 2000.0,
+        "amountGEL": 1051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:36:23.465594Z",
+        "transactionType": "Deposit Check",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:31:45.3185502Z",
+        "transactionType": "Get Amount",
+        "amount": 3000.0,
+        "amountGEL": -949.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:31:34.7121599Z",
+        "transactionType": "Deposit Check",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:23:13.8420946Z",
+        "transactionType": "Deposit Check",
+        "amount": 2000.0,
+        "amountGEL": 2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:22:38.9307392Z",
+        "transactionType": "Get Amount",
+        "amount": 2000.0,
+        "amountGEL": -2051.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:22:20.4818068Z",
+        "transactionType": "Deposit Check",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:10:10.6723656Z",
+        "transactionType": "Get Amount",
+        "amount": 1551.0,
+        "amountGEL": -51.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:09:56.4145651Z",
+        "transactionType": "Get Transactions History",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:04:44.8966301Z",
+        "transactionType": "Fill Amount",
+        "amount": 1000.0,
+        "amountGEL": 1500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:02:23.2940434Z",
+        "transactionType": "Change Pin",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:01:26.4560884Z",
+        "transactionType": "Fill Amount",
+        "amount": 400.0,
+        "amountGEL": 500.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-02-15T18:00:56.7289711Z",
+        "transactionType": "Deposit Check",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "ChangePin",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-03T10:15:30Z",
+        "transactionType": "DepositCheck",
+        "amount": 0.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-02T15:45:00Z",
+        "transactionType": "GetAmount",
+        "amount": 500.0,
+        "amountGEL": 100.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "FillAmount",
+        "amount": 600.0,
+        "amountGEL": 600.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      },
+      {
+        "transactionDate": "2024-01-01T08:20:45Z",
+        "transactionType": "Balance Inquiry",
+        "amount": 0.0,
+        "amountGEL": 0.0,
+        "amountUSD": 0.0,
+        "amountEUR": 0.0
+      }
+    ]
+  }
+]

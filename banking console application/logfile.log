@@ -1,0 +1,53 @@
+ -------------- Error (2024-02-16 00:25:37.6849) --------------
+ 
+ Call Site: BANKING_APPLICATION.BankingApplication.Writejsontransaction
+ Exception Type: System.IO.IOException
+ Exception Message: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+ Stack Trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at BANKING_APPLICATION.BankingApplication.Writejsontransaction(CardholderData data, Transaction transaction, String type) in C:\Users\achig\source\repos\banking console application\banking console application\BankingApplication.cs:line 256
+ Additional Info: Error: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+
+ -------------- Error (2024-02-16 00:25:38.4332) --------------
+ 
+ Call Site: BANKING_APPLICATION.BankingApplication.Writejsontransaction
+ Exception Type: System.IO.IOException
+ Exception Message: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+ Stack Trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at BANKING_APPLICATION.BankingApplication.Writejsontransaction(CardholderData data, Transaction transaction, String type) in C:\Users\achig\source\repos\banking console application\banking console application\BankingApplication.cs:line 256
+ Additional Info: Error: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+
+ -------------- Error (2024-02-16 00:25:47.7596) --------------
+ 
+ Call Site: BANKING_APPLICATION.BankingApplication.Writejsontransaction
+ Exception Type: System.IO.IOException
+ Exception Message: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+ Stack Trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at BANKING_APPLICATION.BankingApplication.Writejsontransaction(CardholderData data, Transaction transaction, String type) in C:\Users\achig\source\repos\banking console application\banking console application\BankingApplication.cs:line 256
+ Additional Info: Error: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+
+ -------------- Error (2024-02-16 00:25:48.2976) --------------
+ 
+ Call Site: BANKING_APPLICATION.BankingApplication.Writejsontransaction
+ Exception Type: System.IO.IOException
+ Exception Message: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+ Stack Trace:    at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at BANKING_APPLICATION.BankingApplication.Writejsontransaction(CardholderData data, Transaction transaction, String type) in C:\Users\achig\source\repos\banking console application\banking console application\BankingApplication.cs:line 256
+ Additional Info: Error: The process cannot access the file 'C:\Users\achig\source\repos\banking console application\banking console application\cardInfo.json' because it is being used by another process.
+
